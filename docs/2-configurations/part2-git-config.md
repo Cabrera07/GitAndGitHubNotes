@@ -87,8 +87,8 @@
 
     > 🔍 **What it does:**
     > - Ensures that:
-        >   - Overrides global settings for the current project directory only.
-        >   - Other projects still use the global configuration.
+    >   - Overrides global settings for the current project directory only.
+    >   - Other projects still use the global configuration.
 
 ---
 
@@ -103,12 +103,14 @@
     ```
 
     > 🔍 **What it does:**
-    > - Instead of typing full commands like git status, you can use shortcuts:
-        > ```bash
-        > git st   # Instead of git status
-        > git co   # Instead of git checkout
-        > git br   # Instead of git branch
-        >```
+    > - Instead of typing full commands like `git status`, you can use shortcuts:
+    >
+    >   ```bash
+    >   git st   # Instead of git status
+    >   git co   # Instead of git checkout
+    >   git br   # Instead of git branch
+    >   ```
+    >
     > - It’s like giving Git commands a nickname to save time!
 
 ---
@@ -134,7 +136,7 @@
     rm ~/.gitconfig
     ```
 
-    > [!WARNING]
+    > ⚠️ **Warning**  
     > Use this carefully! It will reset all global settings.
 
 ---
