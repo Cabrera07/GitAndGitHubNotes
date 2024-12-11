@@ -55,6 +55,8 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
     > [!NOTE]
     > **Look for files named:** `id_rsa.pub`, `id_ecdsa.pub` or `id_ed25519.pub`.
 
+---
+
 ### 2️⃣ Generate a New SSH Key
 
 - **If no keys exist, generate a new one (`Ed25519` is recommended):**
@@ -70,6 +72,8 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
     > - Set a **passphrase** for added security (optional but recommended).
     >
 
+---
+
 ### 3️⃣ Start the SSH Agent
 
 - **Start the SSH agent in the background and add your private key**:
@@ -81,6 +85,8 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
     # Add the private key
     ssh-add ~/.ssh/id_ed25519
     ```
+
+---
 
 ### 4️⃣ Copy the Public Key
 
@@ -104,6 +110,8 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
     clip < ~/.ssh/id_ed25519.pub
     ```
 
+---
+
 ### 5️⃣ Add the Key to GitHub
 
   1. Go to **GitHub.com → Settings → SSH and GPG keys**.
@@ -111,6 +119,8 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
   3. Add a descriptive title (e.g., "Personal Laptop").
   4. Paste your **public key** into the key field.
   5. Click "**Add SSH Key**".
+
+---
 
 ### 6️⃣ Test the Connection
 
@@ -125,6 +135,8 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
     ```bash
     Hi username! You've successfully authenticated...
     ```
+
+---
 
 ### 7️⃣ Usage Example
 
@@ -142,7 +154,7 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
 
 ---
 
-### 🛠 Common Troubleshooting
+### 🔧 Common Troubleshooting
 
 - If you see **"Permission denied"**, ensure:
   - You’re using the SSH URL **`(git@github.com:username/repo.git)`**
@@ -239,7 +251,7 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
 
 ---
 
-### 🛠 Configuring the SSH config File (Optional)
+### 🔧 Configuring the SSH config File (Optional)
 
 - **To simplify using multiple keys, configure your `~/.ssh/config file`:**
 
@@ -303,6 +315,8 @@ Managing multiple GitHub accounts (e.g., personal and work) requires setting up 
     ssh-keygen -t ed25519 -C "work@company.com" -f ~/.ssh/id_ed25519_work
     ```
 
+---
+
 ### 2️⃣ Add the Keys to the SSH Agent
 
 - **Start the SSH agent and add both keys:**
@@ -317,6 +331,8 @@ Managing multiple GitHub accounts (e.g., personal and work) requires setting up 
     # Add work key
     ssh-add ~/.ssh/id_ed25519_work
     ```
+
+---
 
 ### 3️⃣ Configure the `~/.ssh/config` File
 
@@ -335,6 +351,8 @@ Managing multiple GitHub accounts (e.g., personal and work) requires setting up 
     User git
     IdentityFile ~/.ssh/id_ed25519_work
     ```
+
+---
 
 ### 4️⃣ Add Public Keys to GitHub
 
@@ -361,6 +379,8 @@ Managing multiple GitHub accounts (e.g., personal and work) requires setting up 
   2. Go to ***GitHub → Settings → SSH Keys***.
   3. Click "***New SSH Key***".
   4. Add the key with a title like "***Work Machine***".
+
+---
 
 ### 5️⃣ Configure Git for Each Repository
 
@@ -403,6 +423,8 @@ Managing multiple GitHub accounts (e.g., personal and work) requires setting up 
     # Update an existing repository
     git remote set-url origin git@github.com-work:work-username/repo.git
     ```
+
+---
 
 ### 6️⃣ Verify Connections
 
