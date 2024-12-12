@@ -52,8 +52,8 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
     ls -la ~/.ss
     ```
 
-    > [!NOTE]
-    > **Look for files named:** `id_rsa.pub`, `id_ecdsa.pub` or `id_ed25519.pub`.
+    > 🔎 **Nota:**
+    > - Busca archivos con los nombres: `id_rsa.pub`, `id_ecdsa.pub` o `id_ed25519.pub`.
 
 ---
 
@@ -65,11 +65,11 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
     ssh-keygen -t ed25519 -C "your_email@example.com"
     ```
 
-    > [!NOTE]
-    > **During the process:**
+    > 🔎 **Nota:**
+    > - ***During the process:***
     >
-    > - Press **Enter** to save it in the default location.
-    > - Set a **passphrase** for added security (optional but recommended).
+    >   - Press **Enter** to save it in the default location.
+    >   - Set a **passphrase** for added security (optional but recommended).
     >
 
 ---

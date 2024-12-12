@@ -15,7 +15,7 @@
     git config --global user.email "yourname@example.com"
     ```
 
-    > 🔍 **What it does:**
+    > 💡 **What it does:**
     > - When you make commits (save points in your project), Git will tags them with your name and email so collaborators know who made the changes.
 
 ---
@@ -28,7 +28,7 @@
     git config --global core.editor "code --wait"
     ```
 
-    > 🔍 **What it does:**
+    > 💡 **What it does:**
     > - Opens your favorite editor (e.g., VS Code) for commit messages. The `--wait` flag ensures Git pauses until you finish typing.
 
 - **Examples:**
@@ -55,7 +55,7 @@
     git config --global core.autocrlf true
     ```
 
-    > 🔍 **What it does:**
+    > 💡 **What it does:**
     > - Ensures that:
     >   - Windows uses \r\n for line endings.
     >   - Linux/Mac uses \n.
@@ -71,7 +71,7 @@
     git config --list
     ```
 
-    > 🔍 **What it does:**
+    > 💡 **What it does:**
     > - Displays a list of all configured settings, such as your name, email, editor, aliases, etc.
 
 ---
@@ -85,7 +85,7 @@
     git config user.email "projecthero@example.com"
     ```
 
-    > 🔍 **What it does:**
+    > 💡 **What it does:**
     > - Ensures that:
     >   - Overrides global settings for the current project directory only.
     >   - Other projects still use the global configuration.
@@ -102,7 +102,7 @@
     git config --global alias.br branch
     ```
 
-    > 🔍 **What it does:**
+    > 💡 **What it does:**
     > - Instead of typing full commands like `git status`, you can use shortcuts:
     >
     >   ```bash
@@ -123,7 +123,7 @@
     git config --global --unset user.email
     ```
 
-    > 🔍 **What it does:**
+    > 💡 **What it does:**
     > - Removes the specified configuration (in this case, user.email).
 
 ---
