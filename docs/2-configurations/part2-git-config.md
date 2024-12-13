@@ -175,14 +175,14 @@
 
 ## 📝 Summary of Key Commands
 
-| **Command**                          | **Description**                                 |
-|--------------------------------------|------------------------------------------------|
-| `git config --global user.name`      | Set your name globally.                        |
-| `git config --global user.email`     | Set your email globally.                       |
-| `git config --global core.editor`    | Set your preferred text editor.               |
-| `git config --global core.autocrlf`  | Handle line endings automatically.             |
-| `git config --list`                  | View all current Git configurations.           |
-| `git config user.name`               | Set project-specific name.                     |
-| `git config user.email`              | Set project-specific email.                    |
-| `git config --global alias.<alias>`  | Create a shortcut for a Git command.           |
-| `git config --global --unset <key>`  | Remove a specific Git configuration.           |
+| **Command**                          | **Description**                                   |
+|--------------------------------------|--------------------------------------------------|
+| `git config --global user.name`      | 🧑 Set your name globally.                       |
+| `git config --global user.email`     | 📧 Set your email globally.                      |
+| `git config --global core.editor`    | ✏️ Set your preferred text editor.               |
+| `git config --global core.autocrlf`  | 🔄 Handle line endings automatically.            |
+| `git config --list`                  | 📜 View all current Git configurations.          |
+| `git config user.name`               | 🧑 Set project-specific name.                    |
+| `git config user.email`              | 📧 Set project-specific email.                   |
+| `git config --global alias.<alias>`  | ⚡ Create a shortcut for a Git command.          |
+| `git config --global --unset <key>`  | 🗑️ Remove a specific Git configuration.          |
