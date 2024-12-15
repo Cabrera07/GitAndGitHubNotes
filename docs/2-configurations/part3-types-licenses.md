@@ -1,10 +1,6 @@
-# 🛠️ Configurations and Setup (Part III)
+# 📜 Setting up a Open Source License for a Repository
 
-## 📜 Setting up a Open Source License for a Repository
-
-### 📚 **Types of Open Source Licenses**
-
----
+## 📚 **Types of Open Source Licenses**
 
 ## 🎓 **1. MIT License**
 
@@ -867,7 +863,7 @@
 
 ---
 
-## 🆓 **7. Unlicense**
+## 🆓 **8. Unlicense**
 
 ### ✅ **Permissions of Unlicense**
 

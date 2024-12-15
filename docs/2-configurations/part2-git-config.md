@@ -1,12 +1,8 @@
-# 🛠 Configurations and Setup (Part II)
-
-## 🔧 Git Configuration Commands (`git config`)
+# 🔧 Git Configuration Commands (`git config`)
 
 **Git configuration helps you personalize and streamline your workflow. Here are some examples:**
 
----
-
-### 1️⃣ Tell Git Your Name and Email
+## 1️⃣ Tell Git Your Name and Email
 
 - **Set your name and email globally to tag all your commits with this identity:**
 
@@ -20,7 +16,7 @@
 
 ---
 
-### 2️⃣ Choose Your Favorite Text Editor
+## 2️⃣ Choose Your Favorite Text Editor
 
 - **Tell Git which text editor to use for writing commit messages:**
 
@@ -47,7 +43,7 @@
 
 ---
 
-### 3️⃣ Handle Line Endings (Windows vs. Linux )
+## 3️⃣ Handle Line Endings (Windows vs. Linux )
 
 - **Line endings differ between operating systems. Git can automatically handle these differences for you:**
 
@@ -63,7 +59,7 @@
 
 ---
 
-### 4️⃣ See All Your Git Settings
+## 4️⃣ See All Your Git Settings
 
 - **Want to review your current Git configuration? Use:**
 
@@ -76,7 +72,7 @@
 
 ---
 
-### 5️⃣ Set Configurations for Just One Project
+## 5️⃣ Set Configurations for Just One Project
 
 - **Sometimes, you want to apply settings only to a specific project:**
 
@@ -92,7 +88,7 @@
 
 ---
 
-### 6️⃣ Create Aliases (Nicknames for Commands)
+## 6️⃣ Create Aliases (Nicknames for Commands)
 
 - **Shorten frequently used Git commands by setting aliases:**
 
@@ -115,7 +111,7 @@
 
 ---
 
-### 7️⃣ Undo Mistakes (Unset a Configuration)
+## 7️⃣ Undo Mistakes (Unset a Configuration)
 
 - **Did you make a mistake in your configuration? Don’t worry, you can unset it:**
 
@@ -128,7 +124,7 @@
 
 ---
 
-### 8️⃣ Reset All Configurations
+## 8️⃣ Reset All Configurations
 
 - **To remove all global configurations, you can delete the Git config file:**
 
@@ -141,7 +137,7 @@
 
 ---
 
-### 🎁 Bonus: Useful Aliases for Productivity
+## 🎁 Bonus: Useful Aliases for Productivity
 
 - **Here are some handy aliases you can add for better productivity:**
   
@@ -186,3 +182,5 @@
 | `git config user.email`              | 📧 Set project-specific email.                   |
 | `git config --global alias.<alias>`  | ⚡ Create a shortcut for a Git command.          |
 | `git config --global --unset <key>`  | 🗑️ Remove a specific Git configuration.          |
+
+---

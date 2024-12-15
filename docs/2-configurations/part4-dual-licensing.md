@@ -1,10 +1,6 @@
-# 🛠️ Configurations and Setup (Part IV)
+# 📜 Setting up a Open Source License for a Repository
 
-## 📜 Setting up a Open Source License for a Repository
-
-### 🔄 **Dual Licensing Strategy**
-
----
+## 🔄 **Dual Licensing Strategy**
 
 ### 🤔 **What is Dual Licensing?**
 

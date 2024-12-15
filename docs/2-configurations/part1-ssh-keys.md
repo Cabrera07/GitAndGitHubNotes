@@ -1,12 +1,10 @@
-# 🛠 Configurations and Setup (Part I)
-
-## 🔑 SSH Keys: Generate, Add, and Verify SSH Information
+# 🔑 SSH Keys: Generate, Add, and Verify SSH Information
 
 **SSH keys** provide a secure way to authenticate with GitHub without using passwords. They consist of a pair of keys: one public and one private.
 
 ---
 
-### 🚀 How Do SSH Keys Work?
+## 🚀 How Do SSH Keys Work?
 
 **SSH keys function like a pair of digital keys:**
 
@@ -33,7 +31,7 @@ GitHub: "Let me verify with your public key... yes, it's you. Welcome!"
 
 ---
 
-### 🌟 Advantages of SSH Keys
+## 🌟 Advantages of SSH Keys
 
 - 🔐 **Secure:** More secure than passwords.
 - 🕒 **Convenient:** No need to enter your password every time.
@@ -483,3 +481,5 @@ Managing multiple GitHub accounts (e.g., personal and work) requires setting up 
      - Your keys are added to the SSH agent: `ssh-add -l`.
      - File permissions are correct: `ls -la ~/.ssh/`.
    - If a key is compromised, delete it from GitHub and create a new one.
+
+---
