@@ -6,19 +6,27 @@
 
 ### ✅ **Permissions of MIT License**  
 
-1. 🕹️ **Use:** Anyone can use the software for any purpose, including commercial use.
-2. ✏️ **Modify:** The software can be modified without restrictions.
-3. 📤 **Distribute:** Both original and modified versions can be distributed.
-4. 🔄 **Sublicense:** Derived works can be licensed under any terms, even proprietary ones.
-5. 🔒 **Private Use:** Changes or derivatives can remain private without obligation to disclose.
+1. 🕹️ **Use:**
+   - Anyone can use the software for any purpose, including commercial use.
+2. ✏️ **Modify:**
+   - The software can be modified without restrictions.
+3. 📤 **Distribute:**
+   - Both original and modified versions can be distributed.
+4. 🔄 **Sublicense:**
+   - Derived works can be licensed under any terms, even proprietary ones.
+5. 🔒 **Private Use:**
+   - Changes or derivatives can remain private without obligation to disclose.
 
 ---
 
 ### ⚠️ **Limitations of MIT License**
 
-1. 🛡 **No Warranty:** The software is provided "as-is," without any warranty.
-2. 🚫 **No Liability:** The author is not responsible for damages arising from the software's use.
-3. ©️ **Copyright Retention:** The original copyright notice and license text must be included in all distributions or substantial portions.
+1. 🛡 **No Warranty:**
+   - The software is provided "as-is," without any warranty.
+2. 🚫 **No Liability:**
+   - The author is not responsible for damages arising from the software's use.
+3. ©️ **Copyright Retention:**
+   - The original copyright notice and license text must be included in all distributions or substantial portions.
 
 ---
 
@@ -27,7 +35,6 @@
 1. 📝 **Attribution Required:**
    - The original copyright notice and license text must remain in the source code.
    - Any distributions, modified or not, must include this attribution.
-
 2. 🔗 **Non-Reversion:**  
    - Once distributed under MIT, the license cannot be revoked; recipients always retain MIT rights.
 
@@ -51,7 +58,7 @@
 1. 🔓 **If Derivatives Must Stay Open Source:**  
    - Use a copyleft license like GPL instead.
 2. 🛡 **If More Legal Protection is Needed:**  
-   - The MIT license disclaimers might not suffice for high-risk software.
+   - The MIT license disclaimers might not suffice for high-risk software.  
 3. 🔧 **If Complex Licensing Conditions are Required:**  
    - MIT is too simple for enforcing specific use cases or restrictions.
 
@@ -68,19 +75,27 @@
 
 ### ✅ **Permissions of Apache License**  
 
-1. 🕹️ **Use:** The software can be used for any purpose, including commercial use.
-2. ✏️ **Modify:** Freely modify the software as needed.
-3. 📤 **Distribute:** Both original and modified versions can be distributed.
-4. 🔄 **Sublicense:** Derived works can be licensed under different terms, including proprietary ones.
-5. 🧠 **Patent Rights:** Contributors grant an express license for their patent rights to users.
+1. 🕹️ **Use:**
+   - The software can be used for any purpose, including commercial use.
+2. ✏️ **Modify:**
+   - Freely modify the software as needed.
+3. 📤 **Distribute:**
+   - Both original and modified versions can be distributed.
+4. 🔄 **Sublicense:**
+   - Derived works can be licensed under different terms, including proprietary ones.
+5. 🧠 **Patent Rights:**
+   - Contributors grant an express license for their patent rights to users.
 
 ---
 
 ### ⚠️ **Limitations of Apache License**
 
-1. 🛡 **No Warranty:** The software is provided "as-is," without any warranty.
-2. 🚫 **No Liability:** Authors and contributors are not responsible for damages caused by the software's use.
-3. ⚖️ **Patent Termination Clause:** If you initiate patent litigation claiming infringement by the software, your rights to use it are terminated.
+1. 🛡 **No Warranty:**
+   - The software is provided "as-is," without any warranty.
+2. 🚫 **No Liability:**
+   - Authors and contributors are not responsible for damages caused by the software's use.
+3. ⚖️ **Patent Termination Clause:**
+   - If you initiate patent litigation claiming infringement by the software, your rights to use it are terminated.
 
 ---
 
@@ -89,13 +104,10 @@
 1. 📝 **Attribution Required:**  
    - A copy of the license and a **NOTICE** file must be included with any distribution.  
    - The **NOTICE** file identifies attribution-related content from the original software.
-
 2. ✍️ **State Changes:**  
    - If modifications are made, you must include a statement noting the changes.
-
 3. 🔗 **Redistribution Terms:**  
    - Redistributed software, whether modified or not, must retain the same license.
-
 4. 🧠 **Patent Grant:**  
    - Users receive explicit patent rights from contributors, which can be revoked if patent infringement claims are initiated.
 
@@ -105,13 +117,10 @@
 
 1. 🧩 **For Patent Protection:**  
    - The explicit patent grant protects users and contributors from potential litigation.
-
 2. 🌍 **For Open Source Projects with Attribution Needs:**  
-   - Ideal for projects requiring attribution through a NOTICE file.
-
+   - Ideal for projects requiring attribution through a **NOTICE** file.
 3. 👨🏻‍💻 **For Flexible Use:**  
    - Users can leverage the software for almost anything, similar to MIT License, but with added patent protections.
-
 4. ✏️ **For Projects with Modifications:**  
    - The requirement to document modifications ensures transparency and traceability of changes.
 
@@ -120,10 +129,9 @@
 ### 🚫 **When NOT to Use the Apache License**
 
 1. 🔓 **If You Want Derivatives to Stay Open Source:**  
-   Like the MIT License, proprietary derivative works are allowed. Use a copyleft license like GPL to enforce open-source derivatives.
-
+   - Like the MIT License, proprietary derivative works are allowed. Use a copyleft license like GPL to enforce open-source derivatives.
 2. ❌ **If the NOTICE Requirement Is Overkill:**  
-   Smaller projects might find the NOTICE file unnecessary and prefer simpler licenses like MIT.
+   - Smaller projects might find the **NOTICE** file unnecessary and prefer simpler licenses like MIT.
 
 ---
 
@@ -138,10 +146,14 @@
 
 ### ✅ **Permissions of GPL**  
 
-1. 🕹️ **Use:** The software can be used for any purpose, personal or commercial.
-2. ✏️ **Modify:** The source code can be freely modified to suit individual needs.
-3. 📤 **Distribute:** Both original and modified versions can be distributed to others.
-4. 🔓 **Access to Source Code:** Recipients must also get the source code or instructions to access it.
+1. 🕹️ **Use:**
+   - The software can be used for any purpose, personal or commercial.
+2. ✏️ **Modify:**
+   - The source code can be freely modified to suit individual needs.
+3. 📤 **Distribute:**
+   - Both original and modified versions can be distributed to others.
+4. 🔓 **Access to Source Code:**
+   - Recipients must also get the source code or instructions to access it.
 
 ---
 
@@ -150,10 +162,8 @@
 1. 🔗 **Copyleft Restrictions:**  
    - Any distributed modified versions **must** be licensed under the same GPL terms.  
    - Derivative works cannot be relicensed under proprietary terms.
-
 2. 🛡 **No Warranty:**  
    - The software is provided "as-is," with no warranty or liability.
-
 3. ❌ **License Incompatibility:**  
    - GPL is incompatible with some licenses, particularly permissive ones like Apache License 2.0, due to stricter copyleft requirements.
 
@@ -163,13 +173,10 @@
 
 1. 📝 **Disclose Source Code:**  
    - When distributing GPL-licensed software (original or modified), the source code must be provided or made accessible.
-
 2. 🔄 **Same License:**  
    - Modified or derivative works must remain under the GPL license.
-
 3. ✍️ **Prominent Notices:**  
    - Clearly state any changes made to the software.
-
 4. 🚫 **No Additional Restrictions:**  
    - You cannot add restrictions beyond those specified by the GPL.
 
@@ -179,10 +186,8 @@
 
 1. 🧩 **To Ensure Open-Source Freedom:**  
    - Ideal for projects where you want all derivatives to remain open source.
-
 2. 🌍 **For Community Collaboration:**  
    - Encourages contributions by ensuring all modifications stay open for others to use.
-
 3. 🔒 **When Preventing Proprietary Use:**  
    - Ensures your code cannot be integrated into closed-source products.
 
@@ -207,10 +212,14 @@
 
 #### ✅ **Permissions of GPLv2**
 
-1. 🕹️ **Use:** The software can be used for any purpose.
-2. ✏️ **Modify:** Users can freely modify the source code.
-3. 📤 **Distribute:** Both original and modified versions can be distributed.
-4. 🔓 **Access to Source Code:** Recipients must have access to the source code or a way to obtain it.
+1. 🕹️ **Use:**
+   - The software can be used for any purpose.
+2. ✏️ **Modify:**
+   - Users can freely modify the source code.
+3. 📤 **Distribute:**
+   - Both original and modified versions can be distributed.
+4. 🔓 **Access to Source Code:**
+   - Recipients must have access to the source code or a way to obtain it.
 
 ---
 
@@ -219,13 +228,10 @@
 1. 🔗 **Copyleft Restrictions:**  
    - Derivative works **must** be licensed under GPLv2.  
    - Proprietary relicensing is not allowed.
-
 2. 🛡 **No Warranty:**  
    - The software is provided "as-is," with no warranty or liability.
-
 3. ❌ **Patent Concerns:**  
    - GPLv2 does not explicitly address patent rights, leading to potential legal ambiguities.
-
 4. ⚙️ **Tivoization:**  
    - Does not prevent hardware manufacturers from restricting modifications of GPL software on their devices.
 
@@ -235,13 +241,10 @@
 
 1. 📝 **Provide Source Code:**  
    - Source code must be accessible if the software is distributed.
-
 2. 🔄 **Maintain Copyleft:**  
    - Derivative works must remain under GPLv2.
-
 3. ✍️ **Prominent Notices:**  
    - State any changes made to the original software.
-
 4. 🚫 **No Additional Restrictions:**  
    - No new restrictions can be imposed beyond GPLv2 terms.
 
@@ -275,11 +278,16 @@
 
 #### ✅ **Permissions of GPLv3**
 
-1. 🕹️ **Use:** The software can be used for any purpose.
-2. ✏️ **Modify:** Users can freely modify the source code.
-3. 📤 **Distribute:** Both original and modified versions can be distributed.
-4. 🔓 **Access to Source Code:** Recipients must have access to the source code or a way to obtain it.
-5. 🧠 **Patent Protection:** Includes explicit patent licenses to reduce legal risks.
+1. 🕹️ **Use:**
+   - The software can be used for any purpose.
+2. ✏️ **Modify:**
+   - Users can freely modify the source code.
+3. 📤 **Distribute:**
+   - Both original and modified versions can be distributed.
+4. 🔓 **Access to Source Code:**
+   - Recipients must have access to the source code or a way to obtain it.
+5. 🧠 **Patent Protection:**
+   - Includes explicit patent licenses to reduce legal risks.
 
 ---
 
@@ -288,13 +296,10 @@
 1. 🔗 **Copyleft Restrictions:**  
    - Derivative works **must** be licensed under GPLv3.  
    - Proprietary relicensing is not allowed.
-
 2. 🛡 **No Warranty:**  
    - The software is provided "as-is," with no warranty or liability.
-
 3. 🚫 **Anti-Tivoization Clause:**  
    - Prevents hardware manufacturers from restricting modifications.
-
 4. ❌ **License Compatibility Issues:**  
    - Stricter conditions can cause incompatibilities with other licenses.
 
@@ -304,13 +309,10 @@
 
 1. 📝 **Provide Source Code:**  
    - Source code must be accessible if the software is distributed.
-
 2. 🚫 **Anti-Tivoization:**  
    - Hardware using GPLv3 software must allow users to modify and run their changes.
-
 3. 🧠 **Patent Grant:**  
    - Contributors automatically grant patent licenses to users.
-
 4. 🚫 **No Additional Restrictions:**  
    - No new restrictions can be imposed beyond GPLv3 terms.
 
@@ -786,7 +788,7 @@
 
 ---
 
-## 📝 **7. ISC (Internet Systems Consortium) License**
+## 🛜 **7. ISC (Internet Systems Consortium) License**
 
 ### ✅ **Permissions of ISC License**
 
@@ -868,67 +870,67 @@
 ### ✅ **Permissions of Unlicense**
 
 1. 🕹️ **Absolute Freedom:**  
-   - Complete, unrestricted use for any purpose
+   - Complete, unrestricted use for any purpose.
 2. ✏️ **Unlimited Modification:**  
-   - Modify the software without any constraints
+   - Modify the software without any constraints.
 3. 📤 **Unrestricted Distribution:**  
-   - Distribute in any form, modified or unmodified
+   - Distribute in any form, modified or unmodified.
 4. 🌐 **Global Applicability:**  
-   - Worldwide usage without geographical limitations
+   - Worldwide usage without geographical limitations.
 5. 🔓 **No Attribution Required:**  
-   - No obligation to preserve original copyright notices
+   - No obligation to preserve original copyright notices.
 
 ---
 
 ### ⚠️ **Limitations of Unlicense**
 
 1. 🛡 **Absolute No Warranty:**  
-   - Complete disclaimer of all warranties and liabilities
+   - Complete disclaimer of all warranties and liabilities.
 2. 🚫 **No Legal Protections:**  
-   - Zero legal recourse or guarantees
+   - Zero legal recourse or guarantees.
 3. 📝 **No Tracking of Contributions:**  
-   - No mechanism to track or credit original contributors
+   - No mechanism to track or credit original contributors.
 4. 🌍 **Potential International Legal Complexities:**  
-   - May not be universally recognized in all legal jurisdictions
+   - May not be universally recognized in all legal jurisdictions.
 
 ---
 
 ### 📜 **Conditions of Unlicense**
 
 1. 🔄 **No Conditions:**  
-   - Literally no conditions or requirements
+   - Literally no conditions or requirements.
 2. 🚫 **No Restrictions:**  
-   - No limitations on use, modification, or distribution
+   - No limitations on use, modification, or distribution.
 3. 🌐 **Public Domain Dedication:**  
-   - Explicitly releases software into the public domain
+   - Explicitly releases software into the public domain.
 4. 📄 **Optional Fallback Mechanism:**  
-   - Provides a fallback to MIT-like permissive terms if public domain dedication is not recognized
+   - Provides a fallback to MIT-like permissive terms if public domain dedication is not recognized.
 
 ---
 
 ### 🤔 **When to Use Unlicense**
 
 1. 🧩 **Maximum Software Freedom:**  
-   - Ideal for developers wanting to give away work with absolutely no restrictions
+   - Ideal for developers wanting to give away work with absolutely no restrictions.
 2. 🌍 **Educational and Research Purposes:**  
-   - Perfect for academic projects meant for widespread, unrestricted sharing
+   - Perfect for academic projects meant for widespread, unrestricted sharing.
 3. 📚 **Experimental or Demonstration Code:**  
-   - Suitable for code snippets, learning resources, or proof-of-concept projects
+   - Suitable for code snippets, learning resources, or proof-of-concept projects.
 4. 🤝 **Collaborative Open Knowledge:**  
-   - Encourages complete knowledge sharing without legal barriers
+   - Encourages complete knowledge sharing without legal barriers.
 
 ---
 
 ### 🚫 **When NOT to Use Unlicense**
 
 1. 🔒 **Requiring Attribution:**  
-   - Avoid if you want credit for your work
+   - Avoid if you want credit for your work.
 2. 🛡 **Need for Legal Protections:**  
-   - Do not use if you require any form of legal safeguard
+   - Do not use if you require any form of legal safeguard.
 3. 📝 **Tracking Contributions:**  
-   - Not suitable for projects where contributor tracking is important
+   - Not suitable for projects where contributor tracking is important.
 4. 🏢 **Corporate or Regulated Environments:**  
-   - Inappropriate for projects in legal or corporate settings requiring clear licensing
+   - Inappropriate for projects in legal or corporate settings requiring clear licensing.
 
 ---
 
