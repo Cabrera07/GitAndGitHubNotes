@@ -14,7 +14,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>MIT</td>
+      <td><strong>🎓 MIT</strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute, sublicense, private use.</li>
@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td>Apache 2.0</td>
+      <td><strong>🪶 Apache 2.0</strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute, sublicense.</li>
@@ -69,7 +69,7 @@
       </td>
     </tr>
     <tr>
-      <td>GPLv2</td>
+      <td><strong>📇 GPLv2</strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute.</li>
@@ -99,7 +99,7 @@
       </td>
     </tr>
     <tr>
-      <td>GPLv3</td>
+      <td><strong>📇 GPLv3</strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute.</li>
@@ -131,7 +131,7 @@
       </td>
     </tr>
     <tr>
-      <td>LGPL</td>
+      <td><strong>📇 LGPL</strong></td>
       <td>
         <ul>
           <li>Use in proprietary software (dynamic linking).</li>
@@ -159,7 +159,7 @@
       </td>
     </tr>
     <tr>
-      <td>AGPL</td>
+      <td><strong>📇 AGPL</strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute.</li>
@@ -188,7 +188,7 @@
       </td>
     </tr>
     <tr>
-      <td>2-Clause BSD</td>
+      <td><strong>🏫 2-Clause BSD<strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute.</li>
@@ -214,7 +214,7 @@
       </td>
     </tr>
     <tr>
-      <td>3-Clause BSD</td>
+      <td><strong>🏫 3-Clause BSD</strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute.</li>
@@ -242,7 +242,7 @@
       </td>
     </tr>
     <tr>
-      <td>MPL</td>
+      <td><strong>🦊 MPL</strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute.</li>
@@ -271,7 +271,7 @@
       </td>
     </tr>
     <tr>
-      <td>ISC</td>
+      <td><strong>🛜 ISC</strong></td>
       <td>
         <ul>
           <li>Use, modify, distribute.</li>
@@ -297,7 +297,7 @@
       </td>
     </tr>
     <tr>
-      <td>Unlicense</td>
+      <td><strong>🆓 Unlicense</strong></td>
       <td>
         <ul>
           <li>Unrestricted use, modification, and distribution.</li>
@@ -323,7 +323,7 @@
       </td>
     </tr>
     <tr>
-      <td>Dual Licensing</td>
+      <td>⚔️ Dual Licensing</td>
       <td>
         <ul>
           <li>Flexible licensing combining open-source and commercial terms.</li>
@@ -348,14 +348,6 @@
     </tr>
   </tbody>
 </table>
-
----
-
-### 🌟 **Highlights**
-
-1. **🎯 Best Use Cases:** Quickly identifies the license's suitability for specific projects.  
-2. **📜 Conditions:** Clarifies compliance requirements to prevent misunderstandings.  
-3. **⚖️ Balance:** Helps compare licenses based on their permissions and limitations.
 
 ---
 
@@ -430,7 +422,7 @@
 
 ---
 
-### 📚 **5. LGPL (Lesser General Public License)**
+### 📚 **5. LGPL**
 
 ---
 
@@ -445,7 +437,7 @@
 
 ---
 
-### 🌐 **6. AGPL (Affero General Public License)**
+### 🌐 **6. AGPL**
 
 ---
 
@@ -496,7 +488,7 @@
 
 ---
 
-### ⚙️ **9. MPL (Mozilla Public License)**
+### ⚙️ **9. MPL**
 
 ---
 
