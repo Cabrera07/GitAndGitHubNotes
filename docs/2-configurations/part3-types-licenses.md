@@ -2,7 +2,7 @@
 
 ## 📚 **Types of Open Source Licenses**
 
-## 🎓 **1. MIT License**
+## 🎓 **1. MIT (Massachusetts Institute of Technology) License**
 
 ### ✅ **Permissions of MIT License**  
 
@@ -501,7 +501,7 @@
 
 ---
 
-## 🏫 **5. BSD (Berkeley Software Distribution)**
+## 🏫 **5. BSD (Berkeley Software Distribution) License**
 
 ### ✅ **Permissions of BSD License**
 
@@ -551,7 +551,7 @@
 
 ---
 
-### 🚫 **When NOT to Use BSD**
+### 🚫 **When NOT to Use BSD License**
 
 1. 🔗 **If You Need Copyleft Protection:**  
    - Use GPL if you want derivative works to remain open source.
@@ -711,7 +711,7 @@
 
 ---
 
-## 🦊 **6. Mozilla Public License (MPL)**
+## 🦊 **6. MPL (Mozilla Public License)**
 
 ### ✅ **Permissions of MPL**
 
