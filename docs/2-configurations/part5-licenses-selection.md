@@ -351,14 +351,6 @@
 
 ---
 
-### 🌟 **Highlights**
-
-1. **🎯 Best Use Cases:** Quickly identifies the license's suitability for specific projects.  
-2. **📜 Conditions:** Clarifies compliance requirements to prevent misunderstandings.  
-3. **⚖️ Balance:** Helps compare licenses based on their permissions and limitations.
-
----
-
 ## 🛠️ **When to Choose a License**
 
 ### 📄 **1. MIT License**
@@ -430,7 +422,7 @@
 
 ---
 
-### 📚 **5. LGPL (Lesser General Public License)**
+### 📚 **5. LGPL**
 
 ---
 
@@ -445,7 +437,7 @@
 
 ---
 
-### 🌐 **6. AGPL (Affero General Public License)**
+### 🌐 **6. AGPL**
 
 ---
 
@@ -496,7 +488,7 @@
 
 ---
 
-### ⚙️ **9. MPL (Mozilla Public License)**
+### ⚙️ **9. MPL**
 
 ---
 
