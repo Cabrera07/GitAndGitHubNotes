@@ -1,6 +1,6 @@
 # 📜 **Steps to Add a License to Your Repository**
 
-Adding a license to your GitHub repository is a simple but crucial step to clarify how others can use, modify, and distribute your project. Follow these steps to ensure your project is legally compliant and user-friendly:
+Adding a license to your GitHub repository is a simple but crucial step to clarify how others can use, modify, and distribute your project. ***Follow these steps to ensure your project is legally compliant and user-friendly:***
 
 ## **1️⃣ Choose a License**
 
