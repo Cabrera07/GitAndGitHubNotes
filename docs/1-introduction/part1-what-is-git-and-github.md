@@ -107,7 +107,7 @@ You can also clone a friend’s castle (**forking**) and contribute improvements
 > Staging ensures only selected changes are included in your commits, helping maintain clean and purposeful version history.
 
 - **🐛 Problem:** Committed with the wrong message?
-  - **🔧 Solution:** Use the following command to update the message:
+  - **🔧 Solution:** Use the following command to update the message
 
     ```bash
     git commit --amend -m "New commit message"

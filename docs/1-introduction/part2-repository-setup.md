@@ -80,7 +80,7 @@
     ```
 
 > [!NOTE]
-> **🔒 When to Use SSH:** This method is ideal for frequent interactions, as it eliminates the need for repeated credential entry after the initial SSH key setup.
+> **🔒 When to Use SSH:** This method is ideal for frequent interactions, as it eliminates the need for repeated credential entry after the initial SSH key setup and at the same time is a more secure option.
 
 ---
 
@@ -102,7 +102,7 @@
     ```
 
 - **🐛 Problem:** Credentials prompted repeatedly with HTTPS.
-  - **🔧 Solution:** Set up a credential helper:
+  - **🔧 Solution:** Set up a credential helper
 
     ```bash
     git config --global credential.helper store
