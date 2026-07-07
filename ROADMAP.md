@@ -2,7 +2,7 @@
 
 This is the original plan for the full **Git and GitHub Notes** project, kept here as-is so the structure and intent aren't lost. Sections 1–3 are done; sections 4–13 are documented backlog, not active work.
 
-> 📌 **Status note:** this project is intentionally paused while other priorities (a thesis, among them) take precedence. It's not abandoned — just parked. If you're reading this later and want to pick it back up, this file is the map: no need to re-derive the structure from scratch.
+> 📌 **Status note:** this project is intentionally paused while other priorities take precedence. It's not abandoned — just parked.
 
 ---
 
